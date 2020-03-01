@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://balfre.com/</title>
+  <link>https://balfre.com/</link>
+
+<item>
+     <link>https://balfre.com</link>
+     <title>Global Example title | GrB</title>
+     <description>Global Example description</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>https://balfre.com/</link>
+  <title>Home page title</title>
+  <description>Home page description</description>
+  <ror:updatePeriod></ror:updatePeriod>
+  <ror:sortOrder>1</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>https://balfre.com/offline.html</link>
+  <title></title>
+  <description></description>
+  <ror:updatePeriod></ror:updatePeriod>
+  <ror:sortOrder>1</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>https://balfre.com/404.html</link>
+  <title></title>
+  <description></description>
+  <ror:updatePeriod></ror:updatePeriod>
+  <ror:sortOrder>1</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>https://balfre.com/browser.html</link>
+  <title></title>
+  <description></description>
+  <ror:updatePeriod></ror:updatePeriod>
+  <ror:sortOrder>1</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>https://balfre.com/nojs.html</link>
+  <title></title>
+  <description></description>
+  <ror:updatePeriod></ror:updatePeriod>
+  <ror:sortOrder>1</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+
+</channel>
+</rss>

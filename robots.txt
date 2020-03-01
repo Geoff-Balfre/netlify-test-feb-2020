@@ -1,0 +1,4 @@
+# Created By - https://balfre.com
+User-Agent: *
+Sitemap: https://balfre.comsitemap.xml
+Disallow: /bin/
